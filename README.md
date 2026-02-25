@@ -1,50 +1,35 @@
-🍾 StockControl - Sistema de Gestión de Inventario de Licores
-StockControl es una aplicación desarrollada en Java que permite gestionar y controlar el inventario de licores en establecimientos nocturnos de la ciudad de Cartagena. El sistema facilita el registro de entradas, salidas y ventas de productos, optimizando la organización y la contabilidad del inventario.
+🍾 StockControl
+Sistema de gestión de inventario para el control de entrada, salida y venta de licores en establecimientos nocturnos.
 
-📖 Descripción del Proyecto
-En Cartagena, la industria de licores es un pilar cultural y económico. Sin embargo, muchos establecimientos aún manejan su inventario de forma manual, lo que genera problemas de control y pérdida de información.
+Descripción
+StockControl es una aplicación de escritorio desarrollada en Java que automatiza la gestión de inventarios en microempresas del sector de licores en Cartagena. El sistema permite:
 
-StockControl nace para resolver esta problemática, ofreciendo una herramienta digital que permite:
+Control de Inventario: Registro detallado de entradas y salidas de productos (licores).
 
-Registrar entradas y salidas de licores.
+Gestión de Ventas: Seguimiento de ventas realizadas y productos más vendidos.
 
-Controlar las ventas realizadas.
+Distribución de Productos: Asignación y envío de mercancía a diferentes clientes o puntos de venta.
 
-Generar informes sobre el comportamiento del inventario.
+Generación de Reportes: Informes personalizados sobre el comportamiento del inventario y las ventas.
 
-Distribuir productos a diferentes clientes o puntos de venta.
+Optimización Administrativa: Reemplaza métodos manuales (cuadernos de contabilidad) para mejorar la logística y la toma de decisiones.
 
-🔍 Justificación
-La falta de herramientas digitales en la gestión de inventarios ha llevado a muchos negocios a depender de métodos obsoletos como cuadernos de contabilidad. StockControl ofrece una solución moderna, confiable y escalable para mejorar la logística, el control de ventas y la toma de decisiones en entornos con alta rotación de productos y afluencia turística.
+Tecnologías utilizadas
+Lenguaje: Java.
 
-🛠️ Tecnologías Utilizadas
-Lenguaje: Java y Java Swing (última versión estable)
+Interfaz: Consola / (opcional: Java Swing o JavaFX si aplica).
 
-Entorno de desarrollo: NetBeans / IntelliJ IDEA / Eclipse
+Base de Datos: (opcional: MySQL / SQLite si se implementa).
 
-🚀 Uso
-Ejecuta la aplicación.
+🚀 Descargar y probar
+Puedes descargar la última versión del ejecutable desde Releases
 
-Usa el menú principal para:
+📸 Capturas del sistema
+Menú principal
+https://captura1.png
 
-Agregar o eliminar productos.
+Control de inventario
+https://captura7.png
 
-Registrar ventas.
-
-Generar informes.
-
-Distribuir productos.
-
-Sigue las instrucciones en consola o interfaz gráfica 
-
-📄 Licencia
-Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más detalles.
-
-👥 Autores
-Camilo Andrés Martínez Peña
-
-Jader Luis Cardales Pinto
-
-Kevin Alexander Vásquez García
-
-Luis Ernesto Mercado Barrios
+Reportes de ventas
+https://captura6.png
