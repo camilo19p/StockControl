@@ -26,10 +26,10 @@ Puedes descargar la última versión del ejecutable desde Releases
 
 📸 Capturas del sistema
 Menú principal
-https://captura1.png
+capturas/captura1.png
 
 Control de inventario
-https://captura7.png
+capturas/captura7.png
 
 Reportes de ventas
-https://captura6.png
+capturas/captura6.png
