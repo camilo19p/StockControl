@@ -20,6 +20,15 @@
 
 ---
 
+## 🛠️ Tecnologías utilizadas
+
+- **Lenguaje**: Java 17+
+- **Interfaz gráfica**: Swing (javax.swing)
+- **Entorno de desarrollo**: NetBeans / IntelliJ IDEA / Eclipse
+- **Control de versiones**: Git y GitHub
+
+---
+
 ## 🖼️ Capturas de pantalla
 
 | Menú principal | Opciones de producto | Ingreso de productos |
