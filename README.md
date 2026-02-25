@@ -24,11 +24,11 @@
 
 | Menú principal | Opciones de producto | Ingreso de productos |
 |:--------------:|:--------------------:|:--------------------:|
-| ![Menu](Capturas/captura1.png) | ![Opciones](Capturas/captura3.png) | ![Ingreso](Capturas/captura7.png) |
+| ![Menu](capturas/captura1.png) | ![Opciones](capturas/captura3.png) | ![Ingreso](capturas/captura7.png) |
 
 | Lista de productos | Resumen de ventas | Gestión de préstamos |
 |:------------------:|:-----------------:|:--------------------:|
-| ![Lista](Capturas/captura5.png) | ![Ventas](Capturas/captura6.png) | ![Prestamo](Capturas/captura4.png) |
+| ![Lista](capturas/captura5.png) | ![Ventas](capturas/captura6.png) | ![Prestamo](capturas/captura4.png) |
 
 ---
 
