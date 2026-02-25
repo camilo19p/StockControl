@@ -44,13 +44,22 @@
 ## 🚀 Cómo probar el programa
 
 ### Opción 1: Descargar el ejecutable (recomendado)
-1. Ve a la sección **[Releases](https://github.com/tuusuario/StockControl/releases)**
+[![Download](https://img.shields.io/badge/Download-StockControl.jar-blue)](https://github.com/camilo19p/StockControl/releases)
+
+1. Ve a la sección **[Releases](https://github.com/camilo19p/StockControl/releases)**
 2. Descarga el archivo `StockControl.jar`
 3. Ejecuta con: `java -jar StockControl.jar`
 
-### Opción 2: Ejecutar desde el código
+### Opción 2: Ejecutar desde el código fuente
 ```bash
-git clone https://github.com/tuusuario/StockControl.git
+# Clonar el repositorio
+git clone https://github.com/camilo19p/StockControl.git
+
+# Entrar a la carpeta
 cd StockControl
+
+# Compilar
 javac *.java
+
+# Ejecutar
 java Main
