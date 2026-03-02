@@ -48,8 +48,7 @@
 |-------------------------|--------------------------|--------------------------|
 | ![Lista de productos](capturas/captura5.png) | ![Resumen de ventas](capturas/captura6.png) | ![Gestión de préstamos](capturas/captura4.png) |
 
-> **Nota**: Las imágenes se encuentran en la carpeta `/capturas` del repositorio. Asegúrate de que las rutas coincidan exactamente (sensibles a mayúsculas/minúsculas).
-
+> **Nota**: Las imágenes se encuentran en la carpeta `/capturas` del repositorio.
 ---
 
 ## 🚀 Cómo probar el programa
