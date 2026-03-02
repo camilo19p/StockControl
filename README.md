@@ -6,7 +6,7 @@
 
 ## 📋 Descripción
 
-**StockControl** es una aplicación de escritorio desarrollada en **Java Swing** diseñada para la gestión completa de inventarios en tiendas, pequeños negocios o almacenes. Permite controlar productos, registrar ventas, calcular ganancias y administrar préstamos de manera sencilla, intuitiva y eficiente.
+**StockControl** es un aplicativo web desarrollado en **Java Swing** diseñada para la gestión completa de inventarios en tiendas, pequeños negocios o almacenes. Permite controlar productos, registrar ventas, calcular ganancias y administrar préstamos de manera sencilla, intuitiva y eficiente.
 
 **Proyecto desarrollado por:**
 - Camilo Andrés Martínez Peña
