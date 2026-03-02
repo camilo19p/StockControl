@@ -46,7 +46,7 @@
 | Lista de productos          | Resumen de ventas            | Gestión de préstamos         |
 | ![Lista de productos](capturas/captura5.png) | ![Resumen de ventas](capturas/captura6.png) | ![Gestión de préstamos](capturas/captura4.png) |
 
-> **Nota**: Las imágenes se encuentran en la carpeta `/capturas` del repositorio. Asegúrate de que las rutas coincidan exactamente (sensibles a mayúsculas/minúsculas).
+> **Nota**: Las imágenes se encuentran en la carpeta `/capturas` del repositorio.
 
 ---
 
@@ -63,13 +63,6 @@
 Opción 2: Ejecutar desde el código fuente
 Bash# 1. Clonar el repositorio
 git clone https://github.com/camilo19p/StockControl.git
-
-# 2. Entrar a la carpeta del proyecto
-cd StockControl
-
-# 3. Abrir el proyecto en tu IDE preferido (NetBeans, IntelliJ IDEA o Eclipse)
-#    - Importar el proyecto
-#    - Compilar y ejecutar la clase principal (generalmente Main.java o similar)
 
 📜 Licencia y Derechos de Autor
 © 2023 Camilo Andrés Martínez Peña y colaboradores
