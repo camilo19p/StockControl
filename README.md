@@ -9,55 +9,54 @@
 **StockControl** es una aplicación de escritorio desarrollada en **Java Swing** diseñada para la gestión completa de inventarios en tiendas, pequeños negocios o almacenes. Permite controlar productos, registrar ventas, calcular ganancias y administrar préstamos de manera sencilla, intuitiva y eficiente.
 
 **Proyecto desarrollado por:**
-- Camilo Andrés Martínez Peña  
-- Jader Luis Cardales Pinto  
-- Kevin Alexander Vásquez García  
-- Luis Ernesto Mercado Barrios  
+- Camilo Andrés Martínez Peña
+- Jader Luis Cardales Pinto
+- Kevin Alexander Vásquez García
+- Luis Ernesto Mercado Barrios
 
 ---
 
 ## ✨ Características principales
 
-- **Gestión de productos**: Ingresar, mostrar, buscar, actualizar y eliminar productos  
-- **Control de inventario**: Realizar inventarios periódicos y mantener registro detallado de existencias  
-- **Registro de ventas**: Registrar ventas y actualizar stock automáticamente  
-- **Cálculo de ganancias**: Visualizar ventas totales, ganancias por producto y resúmenes financieros  
-- **Sistema de préstamos**: Administrar préstamos con seguimiento de deuda, capital e intereses  
-- **Interfaz gráfica amigable**: Diseño limpio con menús claros y navegación intuitiva  
+- **Gestión de productos**: Ingresar, mostrar, buscar, actualizar y eliminar productos
+- **Control de inventario**: Realizar inventarios periódicos y mantener registro detallado de existencias
+- **Registro de ventas**: Registrar ventas y actualizar stock automáticamente
+- **Cálculo de ganancias**: Visualizar ventas totales, ganancias por producto y resúmenes financieros
+- **Sistema de préstamos**: Administrar préstamos con seguimiento de deuda, capital e intereses
+- **Interfaz gráfica amigable**: Diseño limpio con menús claros y navegación intuitiva
 
 ---
 
 ## 🛠️ Tecnologías utilizadas
 
-- **Lenguaje**: Java 17+  
-- **Interfaz gráfica**: Swing (javax.swing)  
-- **Persistencia**: Archivos (JSON, TXT o base de datos simple según implementación)  
-- **Entorno de desarrollo recomendado**: NetBeans, IntelliJ IDEA o Eclipse  
-- **Empaquetado**: JAR ejecutable  
-- **Control de versiones**: Git y GitHub  
+- **Lenguaje**: Java 17+
+- **Interfaz gráfica**: Swing (javax.swing)
+- **Persistencia**: Archivos (JSON, TXT o base de datos simple según implementación)
+- **Entorno de desarrollo recomendado**: NetBeans, IntelliJ IDEA o Eclipse
+- **Empaquetado**: JAR ejecutable
+- **Control de versiones**: Git y GitHub
 
 ---
 
 ## 🖼️ Capturas de pantalla
 
-| Menú principal          | Opciones de producto     | Ingreso de productos     |
-|-------------------------|--------------------------|--------------------------|
+| Menú principal              | Opciones de producto         | Ingreso de productos         |
+|-----------------------------|------------------------------|------------------------------|
 | ![Menú principal](capturas/captura1.png) | ![Opciones de producto](capturas/captura3.png) | ![Ingreso de productos](capturas/captura7.png) |
-
-| Lista de productos      | Resumen de ventas        | Gestión de préstamos     |
-|-------------------------|--------------------------|--------------------------|
+| Lista de productos          | Resumen de ventas            | Gestión de préstamos         |
 | ![Lista de productos](capturas/captura5.png) | ![Resumen de ventas](capturas/captura6.png) | ![Gestión de préstamos](capturas/captura4.png) |
 
-> **Nota**: Las imágenes se encuentran en la carpeta `/capturas` del repositorio.
+> **Nota**: Las imágenes se encuentran en la carpeta `/capturas` del repositorio. Asegúrate de que las rutas coincidan exactamente (sensibles a mayúsculas/minúsculas).
+
 ---
 
 ## 🚀 Cómo probar el programa
 
 ### Opción 1: Descargar el ejecutable (recomendado para usuarios finales)
 
-1. Ve a la sección **[Releases](https://github.com/camilo19p/StockControl/releases)**  
-2. Descarga el archivo `StockControl.jar` (versión más reciente)  
-3. Ejecuta el archivo con el comando:  
+1. Ve a la sección **[Releases](https://github.com/camilo19p/StockControl/releases)**
+2. Descarga el archivo `StockControl.jar` (versión más reciente)
+3. Ejecuta el archivo con el comando:
    ```bash
    java -jar StockControl.jar
 → Requiere tener Java 17 o superior instalado en tu computadora.
