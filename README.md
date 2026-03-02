@@ -1,4 +1,4 @@
-# 📦 StockControl - Sistema de Control de Inventario
+# 📦 StockControl
 
 [![Java](https://img.shields.io/badge/Java-17%2B-blue)](https://www.java.com)
 [![Swing](https://img.shields.io/badge/GUI-Swing-orange)](https://docs.oracle.com/javase/tutorial/uiswing/)
